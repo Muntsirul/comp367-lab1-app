@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\haque\\Documents\\HelloWorldApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE9C9C7-895C-4FE6-BE46-DFCD86109A02}|HelloWorldApp1\\HelloWorldApp1.csproj|c:\\users\\haque\\documents\\helloworldapp1\\helloworldapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FE9C9C7-895C-4FE6-BE46-DFCD86109A02}|HelloWorldApp1\\HelloWorldApp1.csproj|solutionrelative:helloworldapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE9C9C7-895C-4FE6-BE46-DFCD86109A02}|HelloWorldApp1\\HelloWorldApp1.csproj|c:\\users\\haque\\documents\\helloworldapp1\\helloworldapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE9C9C7-895C-4FE6-BE46-DFCD86109A02}|HelloWorldApp1\\HelloWorldApp1.csproj|solutionrelative:helloworldapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\haque\\Documents\\HelloWorldApp1\\HelloWorldApp1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelloWorldApp1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\haque\\Documents\\HelloWorldApp1\\HelloWorldApp1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HelloWorldApp1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T02:54:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\haque\\Documents\\HelloWorldApp1\\HelloWorldApp1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\haque\\Documents\\HelloWorldApp1\\HelloWorldApp1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HelloWorldApp1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:54:34.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
